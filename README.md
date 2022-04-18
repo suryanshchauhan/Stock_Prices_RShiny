@@ -1,1 +1,1 @@
-# Stock_Prices_RShiny
+# Stock_Prices_App_RShiny
